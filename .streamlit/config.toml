@@ -1,0 +1,6 @@
+[theme]
+# Aquí pones tu color hexadecimal favorito (Ejemplo: Un azul profesional)
+primaryColor = "#FF9225" 
+
+# Opcional: También puedes forzar el fondo oscuro o claro
+base = "light"
