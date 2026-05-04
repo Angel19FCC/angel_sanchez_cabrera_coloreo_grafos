@@ -335,7 +335,7 @@ with col2:
     st.markdown("##### PG: 9.26")
     st.markdown("##### Testimonio Sobresaliente CENEVAL")
     st.markdown("##### Licenciatura en Ciencias de la Computación-BUAP")
-    st.markdown("##### 3 años 5 meses de Experiencias Profesional")
+    st.markdown("##### 3 años 5 meses de Experiencia Profesional")
 st.divider() # Línea divisoria estética
 
 # 4. CUERPO PRINCIPAL DE LA APLICACIÓN
