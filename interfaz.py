@@ -334,7 +334,7 @@ with col2:
     st.markdown("##### ANGEL SANCHEZ CABRERA")
     st.markdown("##### PG: 9.26")
     st.markdown("##### Testimonio Sobresaliente CENEVAL")
-    st.markdown("##### Licenciatura en Ciencias de la Computación-BUAP")
+    st.markdown("##### Maestría en Ciencias de la Computación-BUAP")
     
 st.divider() # Línea divisoria estética
 
